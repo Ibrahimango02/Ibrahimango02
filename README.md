@@ -1,6 +1,6 @@
 # Ibrahim Issa
 
-Backend-focused software engineer building APIs, data pipelines, and LLM-powered systems in Python and TypeScript, mostly in healthcare.
+Backend-focused software engineer building APIs, data pipelines, and LLM-powered systems in Python and TypeScript, interested in healthcare.
 
 ### What I work on
 
@@ -14,6 +14,5 @@ Backend-focused software engineer building APIs, data pipelines, and LLM-powered
 | Project | Stack | Description |
 | --- | --- | --- |
 | [Healthcare Intake Orchestration Workflow](https://github.com/Ibrahimango02/healthcare-referral-pipeline) | Python · Temporal · HL7 · FHIR · Anthropic API · AWS Lambda | Temporal workflow that ingests HL7/FHIR referrals, runs an LLM agent step to extract fields, validates results via AWS Lambda, and writes records to a FHIR server, with durable retries and human-review signals. |
-| Chest X-Ray Diagnostic Tool | Python · PyTorch · FastAPI · React · DICOM | Medical imaging tool with async DICOM processing queues and a React UI with attention-map visualization, backed by a PyTorch model for three chest conditions (89% accuracy on 50,000+ X-rays). |
-| Document Extraction Pipeline | Python · Anthropic API · FastAPI · PostgreSQL | Turns unstructured administrative documents into structured data with confidence scoring, validation rules, and a human-in-the-loop review UI (~90% straight-through accuracy). |
+| Chest X-Ray Diagnostic Tool(https://github.com/Ibrahimango02/X-Ray-Assist) | Python · PyTorch · FastAPI · React · DICOM | Medical imaging tool with async DICOM processing queues and a React UI with attention-map visualization, backed by a PyTorch model for three chest conditions (89% accuracy on 50,000+ X-rays). |
 | [Al-Mahir Academy Portal](https://github.com/Ibrahimango02/almahir-portal) | TypeScript · Next.js · React · Supabase · Tailwind CSS · Vercel | Management portal for an online academy with role-based areas for admins, teachers, students and parents: recurring classes and timezone-aware scheduling with conflict checks, attendance and session reports, invitation-based onboarding, and invoicing and teacher payments. |
