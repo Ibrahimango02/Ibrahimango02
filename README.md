@@ -9,7 +9,7 @@ Backend-focused software engineer building APIs, data pipelines, and LLM-powered
 - Healthcare tech: HL7 v2, FHIR, DICOM, EMR integrations, HIPAA-compliant PHI handling and audit trails
 - Infrastructure: AWS (ECS, Lambda, S3), Temporal, Docker, Kubernetes, CI/CD
 
-### Projects
+### Featured Projects
 
 | Project | Stack | Description |
 | --- | --- | --- |
