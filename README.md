@@ -1,4 +1,4 @@
-# Ibrahim Issa
+# Ibrahīm Issa
 
 Backend-focused software engineer building APIs, data pipelines, and LLM-powered systems in Python and TypeScript, interested in healthcare technology.
 
