@@ -6,7 +6,7 @@ Software engineer building APIs, data pipelines, and LLM-powered systems in Pyth
 
 - LLM and agentic systems: tool calling, multi-agent workflows, structured extraction, MCP, OpenAI / Anthropic APIs
 - Backend and data: FastAPI, Node.js, PostgreSQL, ETL/ingestion pipelines, Kafka, RabbitMQ
-- Healthcare tech: HL7 v2, FHIR, DICOM, EMR integrations, HIPAA-compliant PHI handling and audit trails
+- Healthcare tech: HL7 v2, FHIR, C-CDA, DICOM, EMR integrations, HIPAA-compliant PHI handling and audit trails
 - Infrastructure: AWS (ECS, Lambda, S3), Temporal, Docker, Kubernetes, CI/CD
 
 ### Featured Projects
